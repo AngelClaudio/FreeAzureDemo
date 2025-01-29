@@ -59,5 +59,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Person.sql" />
+    <Build Include="uspPerson_GetAll.sql" />
   </ItemGroup>
 </Project>

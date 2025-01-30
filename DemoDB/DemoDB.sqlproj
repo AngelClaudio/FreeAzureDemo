@@ -63,5 +63,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="DemoDB.publish.xml" />
+    <None Include="Azure.DemoDB.publish.xml" />
   </ItemGroup>
 </Project>
